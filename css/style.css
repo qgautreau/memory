@@ -1,0 +1,29 @@
+#board {
+
+}
+
+.card {
+    width: 25%;
+    display: inline-block;
+    height: 300px;
+    border: 1px solid blue;
+    background-color: black;
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.hiddencard {
+    width: 25%;
+    display: inline-block;
+    height: 300px;
+    border: 1px solid blue;
+    background-color: black;
+    color: black;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
